@@ -1,6 +1,6 @@
 # Ernar Kalkabekov
-Phone: +7 (777) 925-12-84
-Email: ekalkabekov@gmail.com
+* Phone: +7 (777) 925-12-84
+* Email: ekalkabekov@gmail.com
 
 ### Frontend Developer
 Frontend developer with experience in creating web applications using modern JavaScript frameworks and libraries. I specialize in developing the client-side using React and Next.js, ensuring smooth integration with server logic.
